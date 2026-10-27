@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="assets/img/logo.png" alt="SmartUrbanity logo" width="320">
+<img src="assets/img/su_logo.png" alt="SmartUrbanity logo" width="320">
 
 ### Advancing 15-Minute Cities through Collaborative and Smart Urban Solutions
 
